@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplicación</string>
+    <string name="ruc">RUC</string>
+    <string name="razonSocial">Razon Social</string>
+    <string name="textInactivo">Inactivo</string>
+    <string name="textActivo">Activo</string>
+    <string name="textNotificaciones">Recibe notificaciones</string>
+    <string name="textVerificar">Verificar</string>
+</resources>
