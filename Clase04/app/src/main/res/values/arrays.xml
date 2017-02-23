@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="marcas">
+        <item>TOYOTA</item>
+        <item>HYUNDAI</item>
+        <item>MAZDA</item>
+        <item>HONDA</item>
+        <item>BUGGATI</item>
+    </string-array>
+</resources>

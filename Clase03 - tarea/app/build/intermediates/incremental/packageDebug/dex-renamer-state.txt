@@ -1,7 +1,7 @@
-#Wed Feb 22 13:45:43 COT 2017
-base.0=C\:\\Users\\PC15\\Documents\\Android\\Clase03 - tarea\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8f324aa053ccfa5096ee0f89ed21eb4a66c167fd
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\PC15\\Documents\\Android\\Clase03 - tarea\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_93a601a9613d722e1aec9864847009914fe1a656\\classes.dex
-base.1=C\:\\Users\\PC15\\Documents\\Android\\Clase03 - tarea\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_93a601a9613d722e1aec9864847009914fe1a656
-file.0=C\:\\Users\\PC15\\Documents\\Android\\Clase03 - tarea\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8f324aa053ccfa5096ee0f89ed21eb4a66c167fd\\classes.dex
+#Wed Feb 22 19:27:23 PET 2017
+base.0=/Users/alumno/Desktop/Android/Clase03 - tarea/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5443a7b39ddff69add4627e92c8e1a8eb1c6ce78
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/alumno/Desktop/Android/Clase03 - tarea/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a860f40b40f9a634293c281246fb70b6e141dc16/classes.dex
+base.1=/Users/alumno/Desktop/Android/Clase03 - tarea/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a860f40b40f9a634293c281246fb70b6e141dc16
+file.0=/Users/alumno/Desktop/Android/Clase03 - tarea/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5443a7b39ddff69add4627e92c8e1a8eb1c6ce78/classes.dex
