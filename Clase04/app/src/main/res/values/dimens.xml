@@ -4,4 +4,7 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="tamanoGrande">22sp</dimen>
     <dimen name="tamanoMediano">18sp</dimen>
+    <dimen name="colum_width">85dp</dimen>
+    <dimen name="text_margin">10dp</dimen>
+
 </resources>
