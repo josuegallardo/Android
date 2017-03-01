@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">gruponFake</string>
+    <string name="tbTextRegistrar">Registrar</string>
+    <string name="tbTextListar">Listar</string>
+</resources>
