@@ -7,6 +7,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
+import com.example.mac.gruponfake.ListadoActivity;
+import com.example.mac.gruponfake.MainActivity;
 import com.example.mac.gruponfake.R;
 import com.example.mac.gruponfake.modelos.Hotel;
 
@@ -23,6 +25,8 @@ public class HotelAdapter extends BaseAdapter {
         this.context = context;
         this.list = list;
     }
+
+
 
     @Override
     public int getCount() {

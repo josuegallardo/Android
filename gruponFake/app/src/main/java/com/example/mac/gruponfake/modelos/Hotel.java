@@ -6,6 +6,7 @@ package com.example.mac.gruponfake.modelos;
 
 public class Hotel {
     private int id;
+    private String nombre;
 
     public int getId() {
         return id;
@@ -39,7 +40,7 @@ public class Hotel {
         this.precio = precio;
     }
 
-    private String nombre;
     private String ciudad;
     private String precio;
+
 }
