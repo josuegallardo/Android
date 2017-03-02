@@ -6,7 +6,17 @@ package com.example.mac.gruponfake.modelos;
 
 public class Hotel {
     private int id;
-    private String nombre;
+    private String rutaImagen;
+
+    public int getRating() {
+        return rating;
+    }
+
+    public void setRating(int rating) {
+        this.rating = rating;
+    }
+
+    private int rating;
 
     public int getId() {
         return id;
@@ -14,6 +24,14 @@ public class Hotel {
 
     public void setId(int id) {
         this.id = id;
+    }
+
+    public String getRutaImagen() {
+        return rutaImagen;
+    }
+
+    public void setRutaImagen(String rutaImageb) {
+        this.rutaImagen = rutaImageb;
     }
 
     public String getNombre() {
@@ -40,7 +58,9 @@ public class Hotel {
         this.precio = precio;
     }
 
+    private String nombre;
     private String ciudad;
     private String precio;
+
 
 }

@@ -45,6 +45,8 @@ public class MainActivity extends AppCompatActivity {
         hotel.setNombre(textNombre);
         hotel.setCiudad(textCiudad);
         hotel.setPrecio(textPrecio);
+                hotel.setRating(0);
+                hotel.setRutaImagen("https://og.github.com/octocat/github-octocat@1200x630.png");
                 listaHoteles.add(hotel);
                 Toast.makeText(MainActivity.this, "Good", Toast.LENGTH_SHORT).show();
 
@@ -53,8 +55,7 @@ public class MainActivity extends AppCompatActivity {
         listar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(
-                        MainActivity.this, ListadoActivity.class);
+                Intent intent = new Intent(MainActivity.this, ListadoActivity.class);
                 startActivity(intent);
             }
         });

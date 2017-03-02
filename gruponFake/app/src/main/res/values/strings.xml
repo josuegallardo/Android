@@ -2,4 +2,5 @@
     <string name="app_name">gruponFake</string>
     <string name="tbTextRegistrar">Registrar</string>
     <string name="tbTextListar">Listar</string>
+    <string name="ProvinciaSelccionada">Hola</string>
 </resources>
